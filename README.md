@@ -5,6 +5,6 @@ My codewars solutions
 ### Problems solved
 N° | Kata | Solution | Difficulty | Language
 ------------ | ------------- | ------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+1 | [Total Amount Point](https://www.codewars.com/kata/5bb904724c47249b10000131) | [GitHub](http://github.com) | 8 Kyu | Java
+2 | [GitHub](http://github.com) | [GitHub](http://github.com) |
 ### Notes
