@@ -5,7 +5,7 @@ My codewars solutions
 ### Problems solved
 N° | Kata | Solution | Difficulty | Language 
 ------------ | ------------- | ------------- | ------------- | ------------- 
-1 | [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131) | [Total amount of points - solution](src/main/java/it/jdk/codewars/TotalAmountOfPoints.java) | 8 Kyu | Java  
+1 | [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131) | [Total amount of points](src/main/java/it/jdk/codewars/TotalAmountOfPoints.java) | 8 Kyu | Java  
 2 | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [GitHub](http://github.com) | 8 Kyu | Java
 3 | [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | [GitHub](http://github.com) | 8 Kyu | Java
 4 | [Simple Fun #1: Seats in Theater](https://www.codewars.com/kata/588417e576933b0ec9000045) | [GitHub](http://github.com) | 8 Kyu | Java
