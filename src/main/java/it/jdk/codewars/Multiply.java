@@ -12,7 +12,6 @@ public class Multiply {
     public static void main(String[] args) {
         double a = 2.3;
         double b = 3.2;
-        
         System.out.println(multiply(a,b));
     }
     

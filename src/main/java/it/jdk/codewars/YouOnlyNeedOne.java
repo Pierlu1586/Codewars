@@ -34,5 +34,4 @@ public class YouOnlyNeedOne {
         return result;
     }
     
-    
 }
