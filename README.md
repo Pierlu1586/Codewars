@@ -39,7 +39,7 @@ N° | Kata | Solution | Difficulty | Language
 32 | [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb) | [GitHub](http://github.com) | 8 Kyu | Java
 33 | [Area of a Square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a) | [GitHub](http://github.com) | 8 Kyu | Java
 34 | [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96) | [GitHub](http://github.com) | 8 Kyu | Java
-35 | [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212) | [GitHub](http://github.com) | 8 Kyu | Java
+35 | [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212) | [Well of Ideas - Easy Version](src/main/java/it/jdk/codewars/WellOfIdeasEasyVersion.java) | 8 Kyu | Java
 36 | [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [MakeUpperCase](src/main/java/it/jdk/codewars/MakeUpperCase.java) | 8 Kyu | Java
 37 | [Grasshopper - Messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) | [Grasshopper - Messi goals function](src/main/java/it/jdk/codewars/GrasshopperMessiGoalsFunction.java) | 8 Kyu | Java
 37 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply](src/main/java/it/jdk/codewars/Multiply.java) | 8 Kyu | Java
